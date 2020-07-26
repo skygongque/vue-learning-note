@@ -1,6 +1,7 @@
 # 入门vue课程笔记
+[B站的课程链接](https://www.bilibili.com/video/BV12J411m7MG)  
 
-## demo-queryWeather 天气查询系统
+## demo-queryWeather 天气查询
 
 按照课程重新写了`demo.html`中js中的内容  
 
